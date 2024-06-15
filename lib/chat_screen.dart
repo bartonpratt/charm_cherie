@@ -73,7 +73,7 @@ class _ChatWidgetState extends State<ChatWidget> {
         safetySettings: [
           SafetySetting(HarmCategory.harassment, HarmBlockThreshold.medium),
           SafetySetting(HarmCategory.hateSpeech, HarmBlockThreshold.medium),
-          SafetySetting(HarmCategory.sexuallyExplicit, HarmBlockThreshold.high),
+          SafetySetting(HarmCategory.sexuallyExplicit, HarmBlockThreshold.none),
           SafetySetting(
               HarmCategory.dangerousContent, HarmBlockThreshold.medium),
         ]);

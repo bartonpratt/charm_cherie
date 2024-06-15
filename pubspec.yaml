@@ -38,6 +38,7 @@ dependencies:
   google_generative_ai: ^0.4.3
   get: ^4.6.6
   google_fonts: ^6.2.1
+  flutter_markdown: ^0.7.2
   image_picker: ^1.1.2
   flutter_launcher_icons: ^0.13.1
   shared_preferences: ^2.2.3
