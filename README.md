@@ -37,6 +37,12 @@ Available on **both mobile and web**, Charm_Chérie aims to support mental welln
 
 ---
 
+## 👥 Author  
+
+**Charm_Chérie** was designed and developed by **Joseph Barton Pratt**   
+- **GitHub**: [@bartonpratt](https://github.com/bartonpratt)  
+- **Email**: bartonpratt@gmail.com  
+
 ## 📖 Motivation
 
 Charm_Chérie began as a **passion project** — not just to explore AI and app development, but to **create something meaningful for someone I care about**. It brings together my skills in software development and my interest in human-centered design to offer something supportive and intelligent.
