@@ -1,16 +1,54 @@
-# charm_cherie
+# Charm_Chérie 🤖💖
 
-A chatbot for Nessa
+*A thoughtful AI-powered chat companion, created for Nessa.*
 
-## Getting Started
+## 🌿 Overview
 
-This project is a starting point for a Flutter application.
+**Charm_Chérie** is a personal health chatbot designed with empathy at its core. Built using Flutter and powered by Google's Gemini Generative AI, this app was created as a gift for my friend **Nessa**, who is a health enthusiast. The chatbot serves both as a **casual companion** and a **source of health guidance**, blending conversational AI with a warm, personalized experience.
 
-A few resources to get you started if this is your first Flutter project:
+Available on **both mobile and web**, Charm_Chérie aims to support mental wellness, share useful health tips, and simply be a comforting presence.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+
+- 🤖 Friendly conversation using Gemini Generative AI
+- 💬 Context-aware responses tailored to health and lifestyle
+- 📱 Cross-platform (Flutter Web + Android)
+- 🎨 Beautiful, responsive UI
+- 🧠 Extensible architecture for new features (e.g., journaling, health tracking)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Mobile + Web)
+- **Dart**
+- **Gemini API** (Google Generative AI)
+- **Firebase** (for hosting and optional backend features)
+- **Provider** (state management)
+
+---
+
+## 🌐 Live Demo
+
+> [💻 Launch Charm_Chérie](https://charm-cherie.web.app)  
+
+
+---
+
+## 📖 Motivation
+
+Charm_Chérie began as a **passion project** — not just to explore AI and app development, but to **create something meaningful for someone I care about**. It brings together my skills in software development and my interest in human-centered design to offer something supportive and intelligent.
+
+---
+
+## 📂 Getting Started
+
+To run this app locally:
+
+```bash
+git clone https://github.com/bartonpratt/charm_cherie.git
+cd charm_cherie
+flutter pub get
+flutter run -d chrome # or your preferred device
